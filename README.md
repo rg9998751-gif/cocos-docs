@@ -15,7 +15,7 @@ node ./scripts/create-sidebar.js versions/4.0/zh/SUMMARY.md
 
 node ./scripts/create-sidebar.js versions/4.0/en/SUMMARY.md
 
-## Run In Dev Mode
+## Run In Dev Mode...........................................................................................................
 
 npx vitepress dev versions/4.0
 
